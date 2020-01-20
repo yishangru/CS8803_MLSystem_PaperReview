@@ -10,3 +10,7 @@
 2. [Principles of Computer System Design]()
 3. [SysML: The New Frontier of Machine Learning Systems](https://arxiv.org/pdf/1904.03257.pdf)
 4. [A Berkeley Views of Systems Challenges for AI](https://arxiv.org/pdf/1712.05855.pdf)
+
+## Week3 ML System
+1. [TensorFlow: A System for Large-Scale  Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
+2. [PyTorch: AnImperativeStyle,High-Performance DeepLearningLibrary](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
