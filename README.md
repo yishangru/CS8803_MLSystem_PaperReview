@@ -14,3 +14,10 @@
 ## Week3 ML System
 1. [TensorFlow: A System for Large-Scale  Machine Learning](https://www.usenix.org/system/files/conference/osdi16/osdi16-abadi.pdf)
 2. [PyTorch: AnImperativeStyle,High-Performance DeepLearningLibrary](https://papers.nips.cc/paper/9015-pytorch-an-imperative-style-high-performance-deep-learning-library.pdf)
+
+## Week4 ML System
+1. [Mxnet: A ﬂexible and efﬁcient machine learning library for heterogeneous distributed systems](https://arxiv.org/abs/1512.01274)
+2. [Ray: A Distributed Framework for Emerging AI Applications](https://www.usenix.org/system/files/osdi18-moritz.pdf)
+
+## Week5 ML Serving System
+1. [Clipper:ALow-LatencyOnlinePredictionServingSystem](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
