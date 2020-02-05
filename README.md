@@ -21,3 +21,4 @@
 
 ## Week5 ML Serving System
 1. [Clipper:ALow-LatencyOnlinePredictionServingSystem](https://www.usenix.org/system/files/conference/nsdi17/nsdi17-crankshaw.pdf)
+2. [InferLine: Prediction Pipeline Provisioning and Management for Tight Latency Objectives]
